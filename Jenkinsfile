@@ -2,7 +2,7 @@ pipeline {
     agent any
 
 	tools {
-		maven 'maven3.6.2'
+		maven 'maven-3.6.2'
 	}
 	environment {
 		M2_HOME ='/root/Distros/apache-maven-3.6.2/bin/mvn'
