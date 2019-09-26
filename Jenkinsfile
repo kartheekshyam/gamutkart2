@@ -5,7 +5,7 @@ pipeline {
 		maven 'maven3.6.2'
 	}
 	environment {
-		M2_INSTALL = "/root/Distros/apache-maven-3.6.2/bin/mvn
+		M2_HOME = "/root/Distros/apache-maven-3.6.2/bin/mvn
 "
 	}
 
