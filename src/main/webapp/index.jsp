@@ -43,10 +43,6 @@
 					platform you are working on. It is a free source that can handle
 					any kind of build or continuous integration. You can integrate
 					Jenkins with a number of testing and deployment technologies</p>
-				<p>It is a great tool, but there are some issues regarding
-					scaling and performance (which is not so unusual). Other cool
-					solutions such as Travis and CircleCI, which are both hosted
-					solutions that do not require any maintenance on our side.</p>
 				<p>Jenkins is a software that allows continuous integration.
 					Jenkins will be installed on a server where the central build will
 					take place</p>
